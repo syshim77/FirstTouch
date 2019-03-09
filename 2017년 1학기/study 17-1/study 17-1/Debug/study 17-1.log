@@ -1,0 +1,4 @@
+﻿  1051_ms.cpp
+c:\users\syshim\documents\visual studio 2015\projects\study 17-1\study 17-1\1051_ms.cpp(28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  study 17-1.vcxproj -> C:\Users\syshim\Documents\Visual Studio 2015\Projects\study 17-1\Debug\study 17-1.exe
+  study 17-1.vcxproj -> C:\Users\syshim\Documents\Visual Studio 2015\Projects\study 17-1\Debug\study 17-1.pdb (Full PDB)

@@ -1,0 +1,4 @@
+﻿  2146.cpp
+c:\users\syshim\documents\visual studio 2015\projects\study s-11\study s-11\2146.cpp(103): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+  study s-11.vcxproj -> c:\users\syshim\documents\visual studio 2015\Projects\study s-11\Debug\study s-11.exe
+  study s-11.vcxproj -> c:\users\syshim\documents\visual studio 2015\Projects\study s-11\Debug\study s-11.pdb (Full PDB)
